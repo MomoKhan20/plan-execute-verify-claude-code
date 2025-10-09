@@ -14,3 +14,4 @@ Notes and usage details for plan-execute-verify-claude-code.
 - fix a small wording issue
 - link the usage section
 - add a note about the defaults
+- clarify the setup steps
